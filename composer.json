@@ -14,7 +14,7 @@
         "components/jquery":  "*"
     },
     "autoload": {
-        "psr-0": { "x1\\assets\\": "" }
+        "psr-4": { "x1\\assets\\": "" }
     },
     "target-dir": "x1/assets"
 }
