@@ -2,7 +2,7 @@
     "name":        "e-frank/yii2-assets",
     "description": "Some asset bundles with javascript helpers",
     "keywords":    ["yii2", "jquery", "plugins", "assets"],
-    "type":        "library",
+    "type":        "yii2-extension",
     "license":     "BSD-3-Clause",
     "authors": [
         {
