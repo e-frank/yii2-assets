@@ -7,6 +7,7 @@ class KoAsset extends \yii\web\AssetBundle
 	
 	public $js         = [
 		'knockout.js' => 'knockout-3.3.0.js',
+		'knockout.mapping.js',
 	];
 
 	public $css        = [
