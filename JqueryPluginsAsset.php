@@ -7,7 +7,7 @@ class JqueryPluginsAsset extends \yii\web\AssetBundle
 	public $sourcePath = '@x1/assets';
 
 	public $js = [
-		'jquery-plugins/jquery.strings.js',
+		'jquery-plugins/js/jquery.strings.js',
 	];
 
 	public $css = [
