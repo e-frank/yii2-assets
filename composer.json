@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "e-frank/assets":  "*"
+        "components/jquery":  "*"
     },
     "autoload": {
         "psr-0": { "x1\\assets\\": "" }
